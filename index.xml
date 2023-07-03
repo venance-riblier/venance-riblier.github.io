@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venance Riblier</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Venance Riblier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Venance Riblier</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Inflation in Europe</title>
+      <link>https://example.com/data/inflation/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:01 +0000</pubDate>
+      <guid>https://example.com/data/inflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment in Europe</title>
+      <link>https://example.com/data/employment/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/data/employment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Fiscal Cost of Public Debt and Government Spending Shocks</title>
+      <link>https://example.com/working-papers/the-fiscal-cost-of-public-debt-and-government-spending-shocks/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/working-papers/the-fiscal-cost-of-public-debt-and-government-spending-shocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le retour de l&#39;inflation</title>
+      <link>https://example.com/non_academic_publication/le_retour_inflation/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/non_academic_publication/le_retour_inflation/</guid>
+      <description>&lt;p&gt;This paper is a discussion piece on the return of inflation in France since 2021.
+It serves as an introduction to the March 2023 issue of the French revue &lt;em&gt;Les Cahiers Français&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Finance and Macroeconomics</title>
+      <link>https://example.com/teaching_course/international_macro_finance_eap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_course/international_macro_finance_eap/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Teaching assistant to Pr. Philippe Martin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Spring 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Institution&lt;/strong&gt;: &lt;a href=&#34;https://www.sciencespo.fr/public/en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sciences Po - School of Public Affairs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Econometrics with R</title>
+      <link>https://example.com/teaching_course/introduction_econometrics_r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_course/introduction_econometrics_r/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Lecturer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Spring 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Institution&lt;/strong&gt;: &lt;a href=&#34;https://www.sciencespo.fr/college/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sciences Po - Undergraduate College&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Material&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ScPoEcon/ScPoEconometrics-Slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microeconomics Problem Set</title>
+      <link>https://example.com/teaching_material/microeconomics_kholle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_material/microeconomics_kholle/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Investment Decision&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/teaching_material/microeconomics_kholle/french/firm_investment.pdf&#34;&gt;Problem Set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/teaching_material/microeconomics_kholle/french/firm_investment_solutions.pdf&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quasi Linear Preferences&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/teaching_material/microeconomics_kholle/french/quasi_linear.pdf&#34;&gt;Problem Set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/teaching_material/microeconomics_kholle/french/quasi_linear_solutions.pdf&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://example.com/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://example.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://example.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

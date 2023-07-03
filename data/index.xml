@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Venance Riblier</title>
+    <link>https://example.com/data/</link>
+      <atom:link href="https://example.com/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Data</title>
+      <link>https://example.com/data/</link>
+    </image>
+    
+    <item>
+      <title>Inflation in Europe</title>
+      <link>https://example.com/data/inflation/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:01 +0000</pubDate>
+      <guid>https://example.com/data/inflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment in Europe</title>
+      <link>https://example.com/data/employment/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/data/employment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
